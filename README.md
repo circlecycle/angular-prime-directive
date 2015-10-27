@@ -1,2 +1,5 @@
 # angular-prime-directive
-Angular's Prime Directive
+
+# You have not been deemed culturally advanced enough to receive this technology.
+
+# You can reapply after you've started commenting.
